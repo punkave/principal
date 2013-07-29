@@ -1,0 +1,31 @@
+{
+  "name": "principal",
+  "version": "0.1.0",
+  "description": "Async-friendly subclassing and option management",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punkave/principal.git"
+  },
+  "keywords": [
+    "classes",
+    "class",
+    "subclass",
+    "subclassing",
+    "oop",
+    "objects",
+    "async",
+    "options"
+  ],
+  "author": "P'unk Avenue",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "assert": "~0.4.9",
+    "mocha": "~1.12.0"
+  },
+}
